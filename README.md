@@ -2,7 +2,7 @@
 
 <div align="left">
 <p><h4>Welcome to my repo <img width="30" src="https://s2.glbimg.com/XFnCs_dZZttj1T1Va27lwdEfk2w=/smart/e.glbimg.com/og/ed/f/original/2018/12/19/esqueleto_OH4UCln.gif"/></h4></p>
-<img align="right" height="140" alt="Fischer photo" src="https://media-exp1.licdn.com/dms/image/C5603AQE1M3hJvzjBYw/profile-displayphoto-shrink_200_200/0/1651768321233?e=1657756800&v=beta&t=i5P-pSLzmgJ331FJKahdVRB1kggvQkVl2-BJeFAHFwA"/>
+<img align="right" height="140" alt="Fischer photo" src="/profile.jpeg"/>
 </div>
 
 <br>
