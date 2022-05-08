@@ -1,8 +1,8 @@
 # Hello World 🇧🇷🤝🌎
 
 <div align="left">
-<p><h4>Welcome to my repo <img width="30" src="https://s2.glbimg.com/XFnCs_dZZttj1T1Va27lwdEfk2w=/smart/e.glbimg.com/og/ed/f/original/2018/12/19/esqueleto_OH4UCln.gif"/></h4></p>
-<img align="right" height="140" alt="Fischer photo" src="/profile.jpeg"/>
+<p><h4>Welcome to my repo <img width="30" alt="dancing skeleton" src="https://s2.glbimg.com/XFnCs_dZZttj1T1Va27lwdEfk2w=/smart/e.glbimg.com/og/ed/f/original/2018/12/19/esqueleto_OH4UCln.gif"/></h4></p>
+<img align="right" height="140" alt="fischer photo" src="/profile.jpeg"/>
 </div>
 
 <br>
@@ -15,8 +15,8 @@
 <br>
 
 <div align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=fischer8&show_icons=true&theme=dark"/> 
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fischer8&layout=compact&theme=dark"/>
+<img height="150em" alt="profile statistics"src="https://github-readme-stats.vercel.app/api?username=fischer8&show_icons=true&theme=dark"/> 
+<img height="150em" alt="languages usage" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fischer8&layout=compact&theme=dark"/>
 </div>
 <div style="display: inline_block" align="center"><br><hr width="600em">
  <h3>Learning</h3>
@@ -29,8 +29,8 @@
 </div><br>
 <div align="center"><hr width="300em">
  <h3>Contact</h3>
-  <a href="mailto:fischxr@gmail.com"><img height="40" src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+  <a href="mailto:fischxr@gmail.com"><img height="40" alt="gmail" src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
  target="_blank"></a>
-  <a href="https://www.linkedin.com/in/henrique-fischer-92797a239/" target="_blank"><img height="40" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href="https://www.linkedin.com/in/henrique-fischer-92797a239/" target="_blank"><img alt="linkedin" height="40" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 
