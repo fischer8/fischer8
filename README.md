@@ -6,7 +6,6 @@
 
 <br>
 
-* I'm based in São Paulo, Brazil 💕
 * FullStack Web Developer Student | [Trybe](https://www.betrybe.com/) 🚀 (2022-2023)
 * Computer Engineering Student | [FIAP](https://www.fiap.com.br/) 🖥️ (2021-2026)
 * See my portfolio <a href="https://fischer8.github.io">fischer8.github.io</a>
