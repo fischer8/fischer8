@@ -28,10 +28,12 @@
  <img align="center" alt="NODEJS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
  <img align="center" alt="GIT" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">       
 </div><br>
-<div align="center"><hr width="300em">
+
+
+[//]: # (<div align="center"><hr width="300em">
  <h3>Contact</h3>
   <a href="mailto:fischxr@gmail.com"><img height="40" alt="gmail" src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
  target="_blank"></a>
   <a href="https://www.linkedin.com/in/henrique-fischer-92797a239/" target="_blank"><img alt="linkedin" height="40" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-</div>
+</div>)
 
