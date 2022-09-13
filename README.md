@@ -14,15 +14,4 @@
 <img height="150em" alt="profile statistics"src="https://github-readme-stats.vercel.app/api?username=fischer8&show_icons=true&theme=dark"/> 
 <img height="150em" alt="languages usage" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fischer8&layout=compact&theme=dark"/>
 </div>
-<div style="display: inline_block" align="center"><br><hr width="600em">
- <h3>Learning</h3>
- 
- <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
- <img align="center" alt="JS" height="40" width="39" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- 
- <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
- <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
- <img align="center" alt="REACT" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">  
- <img align="center" alt="NODEJS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg">
- <img align="center" alt="GIT" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">       
-</div><br>
+<div style="display: inline_block" align="center">
