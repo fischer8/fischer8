@@ -6,7 +6,6 @@
 
 * FullStack Web Developer Student | [Trybe](https://www.betrybe.com/) 🚀
 * Computer Engineering Student | [FIAP](https://www.fiap.com.br/) 🖥️
-* See my portfolio <a href="https://fischer8.github.io">fischer8.github.io</a>
 
 <br>
 
