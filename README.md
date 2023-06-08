@@ -4,7 +4,7 @@
 
 <br>
 
-* FullStack Web Developer Student | [Trybe](https://www.betrybe.com/) 🚀
+* FullStack Web Developer
 * Computer Engineering Student | [FIAP](https://www.fiap.com.br/) 🖥️
 
 <br>
