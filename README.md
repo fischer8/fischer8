@@ -1,11 +1,14 @@
-<div align="left">
-<img width="30" alt="dancing skeleton" src="https://s2.glbimg.com/XFnCs_dZZttj1T1Va27lwdEfk2w=/smart/e.glbimg.com/og/ed/f/original/2018/12/19/esqueleto_OH4UCln.gif"/></h4></p>
+<div align="center">
+  <p>
+    
+  # FullStack Web Developer
+  </p>
+  <p>
+    
+  - Computer Engineering Student | [FIAP](https://www.fiap.com.br/)
+    
+  </p>
 </div>
-
-<br>
-
-* FullStack Web Developer
-* Computer Engineering Student | [FIAP](https://www.fiap.com.br/) 🖥️
 
 <br>
 
