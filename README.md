@@ -5,7 +5,7 @@
   </p>
   <p>
     
-  - Computer Engineering Student | [FIAP](https://www.fiap.com.br/)
+   Computer Engineering Student | [FIAP](https://www.fiap.com.br/)
     
   </p>
 </div>
