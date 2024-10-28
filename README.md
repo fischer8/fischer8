@@ -1,8 +1,5 @@
 <div align="center">
-  <p>
-    
-  # FullStack Web Developer
-  </p>
+
   <p>
     
    Computer Engineering Student 
